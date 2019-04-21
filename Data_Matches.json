@@ -3,12 +3,12 @@
 	"venue": "Kennington Oval, London",
 	"homeTeam": {
 		"name": "England",
-		"flag": null,
+		"flag": "https://en.wikipedia.org/wiki/Flag_of_England#/media/File:Flag_of_England.svg",
 		"captain": null
 	},
 	"awayTeam": {
 		"name": "South Africa",
-		"flag": null,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1024px-Flag_of_South_Africa.svg.png",
 		"captain": null
 	},
 	"dateTime": "2019-05-30T09:30:00.000Z",
