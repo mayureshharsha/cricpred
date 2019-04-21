@@ -3,12 +3,12 @@
 	"venue": "Kennington Oval, London",
 	"homeTeam": {
 		"name": "England",
-		"flag": "https://www.cricbuzz.com/stats/img/faceImages/881.jpg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
 		"captain": null
 	},
 	"awayTeam": {
 		"name": "South Africa",
-		"flag": "https://www.cricbuzz.com/stats/img/faceImages/881.jpg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
 		"captain": null
 	},
 	"dateTime": "2019-05-30T09:30:00.000Z",
