@@ -113,7 +113,7 @@
 	},
 	"awayTeam": {
 		"name": "India",
-		"flag": null,
+		"flag": "https://en.wikipedia.org/wiki/Flag_of_India#/media/File:Flag_of_India.svg",
 		"captain": null
 	},
 	"dateTime": "2019-06-05T09:30:00.000Z",
